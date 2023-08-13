@@ -11,8 +11,11 @@ public:
                 continue;
             }
 
+            
+
             for(int j =i+1 ; j<nums.size();j++){
                 if(j>i+1&&nums[j]==nums[j-1]) continue;
+              
      
                 int low = j+1 , high = nums.size()-1;
 
