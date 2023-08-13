@@ -3,8 +3,6 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> ans;
-      
-       set<vector<int>> st;
  
        sort(nums.begin(),nums.end());
         
