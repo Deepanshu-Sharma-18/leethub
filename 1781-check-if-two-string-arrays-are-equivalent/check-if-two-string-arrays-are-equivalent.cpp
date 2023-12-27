@@ -12,6 +12,6 @@ public:
             b += word2[i];
         }
 
-        return !a.compare(b);
+        return a == b;
     }
 };
