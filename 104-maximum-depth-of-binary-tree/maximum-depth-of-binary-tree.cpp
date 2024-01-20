@@ -23,7 +23,7 @@ public:
         solution(root->left , ++height);
         --height;
         solution(root->right , ++height);
-        
+        --height;
     }
 
     int maxDepth(TreeNode* root) {
