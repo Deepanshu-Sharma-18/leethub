@@ -11,28 +11,22 @@
  */
 class Solution {
 public:
-    int maxH = 0;
-    void solution(TreeNode* root , int height){
+    int solution(TreeNode* root){
         if(root == NULL){
-            if(height > maxH){
-                maxH = height;
-            }
-            return;
+            return 0;
         }
 
-        solution(root->left , ++height);
-        --height;
-        solution(root->right , ++height);
-        --height;
+        int lh = solution(root->left );
+        int rh = solution(root->right );
+        
+        return max(lh , rh) + 1;
     }
 
     int maxDepth(TreeNode* root) {
         if(root == NULL){
             return 0;
         }
-        solution(root->left , 1);
-        solution(root->right , 1);
 
-        return maxH;
+        return solution(root);
     }
 };
