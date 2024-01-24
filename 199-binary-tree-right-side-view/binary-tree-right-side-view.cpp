@@ -11,9 +11,9 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    
     int minheight = 1;
-    void solution(TreeNode* root , int height){
+    void solution(TreeNode* root , int height , vector<int> &ans){
         if(root == NULL){
             return;
         }
@@ -23,16 +23,14 @@ public:
             minheight++;
         }
 
-        solution(root->right , height + 1);
-        solution(root->left , height + 1);
+        solution(root->right , height + 1 , ans);
+        solution(root->left , height + 1 ,ans);
 
         return;
     }
     vector<int> rightSideView(TreeNode* root) {
-        if(root == NULL){
-            return {};
-        }
-        solution(root , 1);
+        vector<int> ans;
+        solution(root , 1, ans);
         return ans;
     }
 };
