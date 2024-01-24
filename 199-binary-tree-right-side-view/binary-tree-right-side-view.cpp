@@ -12,13 +12,15 @@
 class Solution {
 public:
     
+    int minheight = 1;
     void solution(TreeNode* root , int height , vector<int> &ans){
         if(root == NULL){
             return;
         }
 
-        if(height  == ans.size() ){
+        if(height  == minheight ){
             ans.push_back(root->val);
+            minheight++;
         }
 
         solution(root->right , height + 1 , ans);
@@ -28,7 +30,7 @@ public:
     }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        solution(root , 0, ans);
+        solution(root , 1, ans);
         return ans;
     }
 };
