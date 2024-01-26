@@ -9,71 +9,17 @@
  */
 class Solution {
 public:
-    void solution(TreeNode* root , TreeNode* p , TreeNode* q , stack<TreeNode*> &t){
-        if(root == NULL || ( !t.empty() && (t.top() == p || t.top() == q) )){
-            return;
-        }
-        if(root == p || root == q){
-            t.push(root);
-            return;
-        }
-
-        t.push(root);
-        solution(root->left , p , q , t);
-        solution(root->right , p,q , t);
-        if(!t.empty() && (t.top() == p || t.top() == q)){
-            return;
-        }
-        t.pop();
-
-        return;
-    }
-    bool checkforother(TreeNode* root , TreeNode * t){
-        if(root == t){
-            return true;
-        }
-        if(root == NULL){
-            return false;
-        }
-
-        bool a = checkforother(root->left, t);
-        if(a){
-            return true;
-        }
-
-        bool b = checkforother(root->right, t);
-        if(b){
-            return true;
-        }
-
-        return false;
-
-
-    }
+    
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        stack<TreeNode*> st;
+      if(root == NULL) return NULL;
+	if(root->val == p->val || root->val == q->val) return root;       
 
-        solution(root , p , q , st);
+	TreeNode* lca1 = lowestCommonAncestor(root->left, p, q);          
+	TreeNode* lca2 = lowestCommonAncestor(root->right, p, q);         
 
-        TreeNode* ans = root;
-        TreeNode* other;
+	if(lca1 != NULL && lca2 != NULL) return root; 
 
-        if(st.top() == p){
-            other = q;
-        }
-        else{
-            other = p;
-        }
-
-        while(!st.empty()){
-            ans = st.top();
-            st.pop();
-
-            if(checkforother(ans , other )){
-                return ans;
-            }
-        }
-
-        return ans;
+	if(lca1 != NULL) return lca1;                               
+    return lca2;
     }
 };
