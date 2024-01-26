@@ -9,37 +9,69 @@
  */
 class Solution {
 public:
-    void solution(TreeNode* root , TreeNode* p , vector<TreeNode*> &t){
-        if(root == p){
-            t.push_back(root);
+    void solution(TreeNode* root , TreeNode* p , TreeNode* q , stack<TreeNode*> &t){
+        if(root == NULL || ( !t.empty() && (t.top() == p || t.top() == q) )){
             return;
         }
-        if(root == NULL || (t.size() > 0 && t[t.size()-1] == p)){
+        if(root == p || root == q){
+            t.push(root);
             return;
         }
 
-        t.push_back(root);
-        solution(root->left , p , t);
-        solution(root->right , p , t);
-
-        if( (t.size() > 0 && t[t.size()-1] ==p )){
+        t.push(root);
+        solution(root->left , p , q , t);
+        solution(root->right , p,q , t);
+        if(!t.empty() && (t.top() == p || t.top() == q)){
             return;
         }
-        t.pop_back();
+        t.pop();
 
         return;
     }
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> a;
-        vector<TreeNode*> b;
+    bool checkforother(TreeNode* root , TreeNode * t){
+        if(root == t){
+            return true;
+        }
+        if(root == NULL){
+            return false;
+        }
 
-        solution(root , p , a);
-        solution(root , q , b);
+        bool a = checkforother(root->left, t);
+        if(a){
+            return true;
+        }
+
+        bool b = checkforother(root->right, t);
+        if(b){
+            return true;
+        }
+
+        return false;
+
+
+    }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        stack<TreeNode*> st;
+
+        solution(root , p , q , st);
 
         TreeNode* ans = root;
-        for(int i = 0 ; i<min(a.size() , b.size()) ; i++){
-            if(find(b.begin() , b.end() , a[i]) != b.end())
-                ans = a[i];
+        TreeNode* other;
+
+        if(st.top() == p){
+            other = q;
+        }
+        else{
+            other = p;
+        }
+
+        while(!st.empty()){
+            ans = st.top();
+            st.pop();
+
+            if(checkforother(ans , other )){
+                return ans;
+            }
         }
 
         return ans;
