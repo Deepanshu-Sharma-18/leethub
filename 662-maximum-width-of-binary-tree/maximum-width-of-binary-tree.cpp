@@ -30,7 +30,7 @@ public:
                 if(i == 0) first = ind;
                 if(i == size-1) last = ind;
 
-                if(t->left != NULL) q.push({ t->left, (long long)ind*2 + 1 });
+                if(t->left != NULL) q.push({ t->left, (long long) ind*2 + 1 });
                 if(t->right != NULL) q.push({ t->right,(long long) ind*2 + 2 });
             }
 
