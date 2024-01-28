@@ -17,16 +17,12 @@ public:
         
         TreeNode* temp = root;
         while(temp){
-            if(temp->left != NULL
-            ){
+            if(temp->left != NULL){
                 TreeNode *k = temp->left;
                 while(k->right!=NULL){
                     k = k->right;
                 }
                 k->right = temp->right;
-                temp->right = temp->left;
-                temp->left = NULL;
-            }else if(temp->left != NULL && temp->right == NULL){
                 temp->right = temp->left;
                 temp->left = NULL;
             }
