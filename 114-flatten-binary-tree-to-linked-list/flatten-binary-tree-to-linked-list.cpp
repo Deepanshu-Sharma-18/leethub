@@ -16,7 +16,7 @@ public:
         if(root == NULL) return;
         
         TreeNode* temp = root;
-        while(temp->left != NULL || temp->right != NULL){
+        while(temp){
             if(temp->left != NULL && temp->right != NULL){
                 TreeNode *t = temp->right;
                 TreeNode *k = temp->left;
