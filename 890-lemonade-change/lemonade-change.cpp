@@ -8,11 +8,11 @@ public:
                 five++;
                 continue;
             }else{
-                int payBack = bills[i] - 5;
-                if(payBack == 5){
+                 
+                if(bills[i] - 5 == 5){
                     ten++;
                 }
-                if(payBack == 5){
+                if(bills[i] - 5 == 5){
                     if(five >= 1){
                         five--;
                     }else{
