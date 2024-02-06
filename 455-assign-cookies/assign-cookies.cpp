@@ -12,11 +12,10 @@ public:
         while(i >= 0 && j >= 0){
             if(g[i] <= s[j]){
                 cnt++;
-                --i;
                 --j;
-            }else{
-                --i;
             }
+
+            --i;
         }
         return cnt;
     }
