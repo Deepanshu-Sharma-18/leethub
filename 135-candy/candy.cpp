@@ -2,16 +2,17 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
         int num = 0;
-        vector<int> mp(ratings.size(),0);
+        int size = ratings.size();
+        vector<int> mp(size,0);
 
-        for(int i=1;i<ratings.size();i++){
+        for(int i=1;i<size;i++){
            
                 if(ratings[i-1] < ratings[i]){
                     mp[i] = mp[i-1]+ 1;
                 }
         }
 
-        for(int i=ratings.size()-1;i>0;i--){
+        for(int i=size-1;i>0;i--){
             
                 if(ratings[i-1] > ratings[i]){
                     mp[i-1] = max(mp[i] + 1 , mp[i-1] ) ;
