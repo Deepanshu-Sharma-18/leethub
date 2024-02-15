@@ -2,7 +2,7 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
         int num = 0;
-        map<int,int> mp;
+        vector<int> mp(ratings.size(),0);
 
         for(int i=1;i<ratings.size();i++){
            
