@@ -24,7 +24,7 @@ public:
             num += mp[i];
         }
 
-        return num + ratings.size();
+        return num + size;
     }
 };
 
