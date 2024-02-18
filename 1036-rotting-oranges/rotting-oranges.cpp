@@ -30,13 +30,12 @@ public:
             int size = q.size();
 
             for(int x=0;x<size;x++){
-                auto row = q.front().first;
-                auto col = q.front().second;
+                auto coor = q.front();
                 q.pop();
 
                 for (auto [dx, dy] : dirs) {
-                    int i = row + dx;
-                    int j = col + dy;
+                    int i = coor.first + dx;
+                    int j = coor.second + dy;
                     if (i >= 0 && i < grid.size() && j >= 0 && j < grid[0].size() && grid[i][j] == 1 ) {
                         q.push({i, j});
                         fresh--;
