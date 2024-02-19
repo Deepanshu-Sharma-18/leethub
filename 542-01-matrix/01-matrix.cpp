@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         vector<vector<int>> ans(mat.size(),vector<int>(mat[0].size(),0));
+        
         vector<pair<int,int>> dir = {{0,-1} , {0,1} , {-1,0} , {1,0}};
         queue<pair<int,int>> q;
         vector<vector<int>> vis(mat.size(),vector<int>(mat[0].size(),0));
@@ -14,7 +15,6 @@ public:
                 }
             }
         }
-
 
         while(!q.empty()){
             auto a = q.front();
