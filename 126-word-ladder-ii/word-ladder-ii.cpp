@@ -43,13 +43,11 @@ public:
 
         unordered_set<string> st(wordList.begin(), wordList.end());
 
-        // Perform BFS traversal and push the string in the queue
-        // as soon as they’re found in the wordList.
         queue<string> q;
         b = beginWord;
         q.push({beginWord});
 
-        // beginWord initialised with level 1.
+
         mpp[beginWord] = 1;
         int sz = beginWord.size();
         st.erase(beginWord);
@@ -60,13 +58,10 @@ public:
             int steps = mpp[word];
             q.pop();
             
-            // Break out if the word matches the endWord
+
             if (word == endWord)
                 break;
 
-            // Replace each character of the word with letters from a-z 
-            // and check whether the transformed word is present in the 
-            // wordList or not, if yes then push to queue
             for (int i = 0; i < sz; i++)
             {
                 char original = word[i];
@@ -79,9 +74,7 @@ public:
                     {
                         q.push(word);
                         st.erase(word);
-                       
-                        // push the word along with its level
-                        // in the map data structure.
+                    
                         mpp[word] = steps + 1;
                     }
                 }
@@ -89,8 +82,7 @@ public:
             }
         }
     
-        // If we reach the endWord, we stop and move to step-2
-        // that is to perform reverse dfs traversal.
+    
         if (mpp.find(endWord) != mpp.end())
         {
             vector<string> seq;
