@@ -8,9 +8,7 @@ public:
         queue<vector<int>> pq;
         vector<vector<int>> dist(n,vector<int>(n,1e9));
         
-
         pq.push({0,0,0});
-        dist[0][0] = 0;
 
         while(!pq.empty()){
             auto s = pq.front();
@@ -22,13 +20,13 @@ public:
                     int col = j + s[2];
 
 
-                    if(row >= 0 && row < n && col >= 0 && col < n && grid[row][col] == 0 && s[0] + 1 < dist[row][col]){
+                    if(row >= 0 && row < n && col >= 0 && col < n && grid[row][col] == 0){
                         if(row == n-1 && col == n-1 ){
                             return s[0] + 2;
                         }
 
                         pq.push({s[0] + 1 , row,col});
-                        dist[row][col] = s[0] + 1;
+                        grid[row][col] = 1;
                     }
                 }
             }
