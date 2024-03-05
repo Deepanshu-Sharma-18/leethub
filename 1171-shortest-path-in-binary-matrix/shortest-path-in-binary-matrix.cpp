@@ -6,7 +6,6 @@ public:
         if(n == 1) return 1;
         
         queue<vector<int>> pq;
-        vector<vector<int>> dist(n,vector<int>(n,1e9));
         
         pq.push({0,0,0});
 
