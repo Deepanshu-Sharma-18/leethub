@@ -2,6 +2,7 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
+        
         if(grid[0][0] == 1 || grid[n-1][n-1]) return -1;
         if(n == 1) return 1;
         
