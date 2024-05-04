@@ -21,28 +21,34 @@ public:
 
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m , vector<int>(n , 0));
+        //vector<vector<int>> dp(m , vector<int>(n , 0));
+
+        vector<int> prev(m,0);
 
         for(int i =0 ; i < m ; i++){
+
+            vector<int> curr(n,0);
             for( int j = 0 ;j < n ;j++){
                 
                 if(i == 0 && j == 0){
-                    dp[i][j] = grid[i][j];
+                    curr[j] = grid[i][j];
                     continue;
                 }
 
                 int down = INT_MAX , right = INT_MAX;
 
                 if(i>0)
-                    down = dp[i-1][j];
+                    down = prev[j];
                 if(j>0)
-                    right = dp[i][j-1];
+                    right = curr[j-1];
 
-                dp[i][j] = grid[i][j] + min(down , right);
+                curr[j] = grid[i][j] + min(down , right);
 
             }
+
+            prev = curr;
         }
 
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 };
