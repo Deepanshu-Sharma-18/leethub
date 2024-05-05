@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int f(vector<int> &nums , int n, int target , vector<vector<int>> &dp){
-        if(target == 0) return 1;
-        if(target < 0) return 0;
-        if(n == 0) return nums[0] == target;
+    // int f(vector<int> &nums , int n, int target , vector<vector<int>> &dp){
+    //     if(target == 0) return 1;
+    //     if(target < 0) return 0;
+    //     if(n == 0) return nums[0] == target;
 
-        if(dp[n][target] != -1) return dp[n][target];
+    //     if(dp[n][target] != -1) return dp[n][target];
 
-        int pick = f(nums,n-1,target - nums[n] ,dp);
+    //     int pick = f(nums,n-1,target - nums[n] ,dp);
 
-        int notpick = f(nums,n-1,target,dp);
+    //     int notpick = f(nums,n-1,target,dp);
 
-        return dp[n][target] =  pick || notpick;
+    //     return dp[n][target] =  pick || notpick;
 
 
-    }
+    // }
     bool canPartition(vector<int>& nums) {
         int sum = 0;
         for(auto it : nums){
