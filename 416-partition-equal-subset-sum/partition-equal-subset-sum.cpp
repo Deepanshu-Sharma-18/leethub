@@ -22,9 +22,11 @@ public:
         }
         if(sum % 2 != 0) return false;
 
-        vector<vector<bool>> dp(nums.size() , vector<bool>(sum/2 + 1 , 0));
+        int n = nums.size();
+        vector<vector<bool>> dp(n , vector<bool>(sum/2 + 1 , 0));
 
-        for(int i=0;i<nums.size();i++){
+
+        for(int i=0;i<n;i++){
             dp[i][0] = true;
         }
 
@@ -32,7 +34,7 @@ public:
             dp[0][nums[0]] = true;
         }
 
-        for(int i=1;i<nums.size();i++){
+        for(int i=1;i<n;i++){
             for(int j=1;j<=sum/2;j++){
                 bool pick = false;
                 if(j >= nums[i]) pick = dp[i-1][j - nums[i]];
@@ -44,6 +46,6 @@ public:
 
 
 
-        return dp[nums.size()-1][sum/2];
+        return dp[n-1][sum/2];
     }
 };
