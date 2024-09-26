@@ -1,25 +1,39 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        // int ind = nums.size() - 1;
-        // for(int i = nums.size()-1 ; i >0 ; i--){
-        //     if(nums[i] == nums[i-1]){
-        //         swap(nums[i] , nums[ind])
-        //     }
+        
+
+        // set<int> temp;
+
+        // for(int i=0;i<nums.size();i++){
+        //     temp.insert(nums[i]);
         // }
 
-        set<int> temp;
+        // int i=0;
 
+        // for(auto it : temp){
+        //     nums[i] = it;
+        //     i++;
+        // }
+        // return i;
+
+
+        int ind = 0 ;
+        int curr = nums[0];
         for(int i=0;i<nums.size();i++){
-            temp.insert(nums[i]);
+            if(nums[i] == curr){
+                continue;
+            }
+                
+            swap(curr , nums[ind]);
+            curr = nums[i];
+            ind++;
+            
         }
 
-        int i=0;
+        swap(curr , nums[ind]);
 
-        for(auto it : temp){
-            nums[i] = it;
-            i++;
-        }
-        return i;
+
+        return ind+1;
     }
 };
