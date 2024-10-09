@@ -8,7 +8,6 @@ public:
         while(j < t.size()){
             if(s[i] == t[j]){
                 i++;
-            
                 if(i == s.size()) return true;
             }
             j++;
