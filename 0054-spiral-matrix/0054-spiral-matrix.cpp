@@ -1,44 +1,44 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-   
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        int rowStart = 0, rowEnd = m - 1;
+        int colStart = 0, colEnd = n - 1;
+
         vector<int> ans;
-        
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        int left=0,bottom=rows-1,top=0,right =cols-1;
 
-        while( left<=right && top<=bottom ){
-
-            for(int i=left;i<=right;i++){
-                ans.push_back(matrix[top][i]);
+        while (rowStart <= rowEnd && colStart <= colEnd) {
+            // Traverse Right
+            for (int col = colStart; col <= colEnd; col++) {
+                ans.push_back(matrix[rowStart][col]);
             }
-            top++;
-     
-            for(int i=top;i<=bottom;i++){
-                ans.push_back(matrix[i][right]);
-            }
-            right--;   
+            rowStart++;
 
-            if(top<=bottom){
-                for(int i=right;i>=left;i--){
-                    ans.push_back(matrix[bottom][i]);
+            // Traverse Down
+            for (int row = rowStart; row <= rowEnd; row++) {
+                ans.push_back(matrix[row][colEnd]);
+            }
+            colEnd--;
+
+            // Traverse Left
+            if (rowStart <= rowEnd) {
+                for (int col = colEnd; col >= colStart; col--) {
+                    ans.push_back(matrix[rowEnd][col]);
                 }
-                bottom--;    
+                rowEnd--;
             }
 
-
-             if(left<=right){
-                for(int i=bottom;i>=top;i--){
-                    ans.push_back(matrix[i][left]);
+            // Traverse Up
+            if (colStart <= colEnd) {
+                for (int row = rowEnd; row >= rowStart; row--) {
+                    ans.push_back(matrix[row][colStart]);
                 }
-                left++;    
+                colStart++;
             }
-    
-
         }
 
         return ans;
-
     }
 };
