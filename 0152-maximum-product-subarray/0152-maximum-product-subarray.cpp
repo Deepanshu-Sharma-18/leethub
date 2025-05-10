@@ -3,7 +3,6 @@ public:
     int maxProduct(vector<int>& nums) {
         if (nums.empty()) return 0;
 
-        // Initialize variables to track max and min product
         int max_product = nums[0];
         int min_product = nums[0];
         int result = nums[0];
