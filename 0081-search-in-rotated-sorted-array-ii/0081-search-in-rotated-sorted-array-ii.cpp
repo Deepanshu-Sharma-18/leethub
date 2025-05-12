@@ -1,40 +1,31 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        int ind = nums.size();
+        int left = 0, right = nums.size() - 1;
 
-        for(int i=1;i<nums.size();i++){
-            if(nums[i] < nums[i-1]){
-                ind = i;
-                break;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) return true;
+
+            // The tricky part: handle duplicates
+            if (nums[left] == nums[mid] && nums[right] == nums[mid]) {
+                left++;
+                right--;
             }
-        }
-
-        int a = 0 , b = ind -1;
-        
-        while(a <= b){
-            int mid = (a + b)/2;
-
-            if(nums[mid] == target){
-                return true;
-            }else if(nums[mid] > target){
-                b = mid - 1;
-            }else {
-                a = mid + 1;
+            // Left half is sorted
+            else if (nums[left] <= nums[mid]) {
+                if (nums[left] <= target && target < nums[mid])
+                    right = mid - 1;
+                else
+                    left = mid + 1;
             }
-        }
-
-        a = ind; b = nums.size()-1;
-
-        while(a <= b){
-            int mid = (a + b)/2;
-
-            if(nums[mid] == target){
-                return true;
-            }else if(nums[mid] > target){
-                b = mid - 1;
-            }else {
-                a = mid + 1;
+            // Right half is sorted
+            else {
+                if (nums[mid] < target && target <= nums[right])
+                    left = mid + 1;
+                else
+                    right = mid - 1;
             }
         }
 
