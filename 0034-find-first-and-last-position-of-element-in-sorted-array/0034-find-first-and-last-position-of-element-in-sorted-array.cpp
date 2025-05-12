@@ -9,7 +9,7 @@ public:
             int mid = (a + b)/2;
 
             if(nums[mid] >= target){
-                if(nums[mid] == target) start = min(start , mid);
+                if(nums[mid] == target) start = mid;
                 b = mid-1;
             }else {
                 a = mid + 1;
@@ -21,7 +21,7 @@ public:
             int mid = (a + b)/2;
 
             if(nums[mid] <= target){
-                if(nums[mid] == target) end = max(end , mid);
+                if(nums[mid] == target) end = mid;
                 a = mid + 1;
             }else {
                 b = mid-1;
