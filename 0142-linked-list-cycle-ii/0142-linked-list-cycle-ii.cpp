@@ -29,9 +29,7 @@ public:
         while(slow != fast){
             slow = slow->next;
             fast = fast->next;
-            if(slow == fast){
-                break;
-            }
+
         }
 
         return slow;
