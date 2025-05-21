@@ -12,18 +12,18 @@ public:
         ListNode* fast = head;
         ListNode* slow = head;
 
-        bool f = false;
+       
 
         while(fast != NULL && fast->next != NULL){
             fast = fast->next->next;
             slow = slow->next;
 
             if(slow == fast){
-                f = true;
+               
                 break;
             }
         }
-        if(!f) return NULL;
+       if (fast == NULL || fast->next == NULL) return NULL;
         slow = head;
 
         while(slow != fast){
