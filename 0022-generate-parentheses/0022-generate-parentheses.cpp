@@ -2,11 +2,7 @@ class Solution {
 public:
     void f(int n , int active, vector<string> &ans, string temp, int& siz){
         if(temp.size() == siz){
-
-            if(find(ans.begin(),ans.end(),temp) == ans.end()){
-                ans.push_back(temp);
-            }
-
+            ans.push_back(temp);
             return;
         }
 
