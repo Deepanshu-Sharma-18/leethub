@@ -7,9 +7,11 @@ public:
         }
         if(target < 0 || i == n) return;
 
-        temp.push_back(nums[i]);
-        f(nums,target - nums[i],temp,ans,i,n);
-        temp.pop_back();
+        if(target - nums[i] >= 0){
+            temp.push_back(nums[i]);
+            f(nums,target - nums[i],temp,ans,i,n);
+            temp.pop_back();
+        }
         f(nums,target,temp,ans,i+1,n);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
