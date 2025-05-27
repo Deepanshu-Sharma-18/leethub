@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0205-isomorphic-strings) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
