@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -252,4 +253,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
