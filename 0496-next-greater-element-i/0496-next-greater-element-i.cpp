@@ -4,16 +4,15 @@ public:
         stack<int> s;
         map<int,int> mp;
         for(int j = nums2.size()-1; j >=0 ; j--){
-            stack<int> temp = s;
-            while(!temp.empty()){
-                if(nums2[j] < temp.top()){
-                    mp[nums2[j]] = temp.top();
+            while(!s.empty()){
+                if(nums2[j] < s.top()){
+                    mp[nums2[j]] = s.top();
                     break;
                 }
-                temp.pop();
+                s.pop();
             }
 
-            if(temp.empty()){
+            if(s.empty()){
                 mp[nums2[j]] = -1;
             }
 
