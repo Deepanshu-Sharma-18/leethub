@@ -1,24 +1,21 @@
 class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int left = 1;
-        int right = *max_element(nums.begin(),nums.end());
-
+        int low = 1;
+        int high = *max_element(nums.begin(), nums.end());
         int ans = -1;
-
-        while(left <= right){
-            int mid = left + (right - left)/2;
-
+        while(low <= high){
+            int mid = low + (high - low)/2;
             int sum = 0;
             for(auto it : nums){
-                sum += (it + mid - 1)/mid;
+                sum += ceil(double(it) / double(mid));
             }
 
             if(sum <= threshold){
                 ans = mid;
-                right = mid - 1;
+                high = mid - 1;
             }else{
-                left = mid + 1;
+                low = mid + 1;
             }
         }
 
