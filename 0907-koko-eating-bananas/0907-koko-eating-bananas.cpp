@@ -1,33 +1,23 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int left = 1;
-        int right = -1;
+        int low = 1;
+        int high = *max_element(piles.begin(),piles.end());
 
-        for(auto it : piles){
-            if(right < it){
-                right = it;
-            }
-        }
+        int ans = -1;
 
-        int ans;
-
-        while(left <= right){
-            int mid = left + (right - left)/2;
-
-            long long  sum = 0;
-
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            long long sum = 0;
             for(auto it : piles){
-                sum += (it + mid - 1)/mid;
+                sum += ceil(double(it) / double(mid));
             }
-
-            if(sum <= h ){
+            if(sum <= h){
                 ans = mid;
-                right = mid - 1;
+                high = mid - 1;
             }else{
-                left = mid + 1;
+                low = mid + 1;
             }
-            
         }
 
         return ans;
