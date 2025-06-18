@@ -10,60 +10,59 @@
  */
 class Solution {
 public:
-
-    ListNode* merge(ListNode* a , ListNode* b){
-        ListNode* ans = new ListNode(0);
-        ListNode* temp = ans;
+    ListNode* merge(ListNode* a, ListNode* b){
+        ListNode* nw = new ListNode(0);
+        ListNode* t = nw;
 
         while(a && b){
-            if(a->val < b->val){
-                ans->next = a;
-                ans = ans->next;
+            if(a->val <= b->val){
+                nw->next = a;
                 a = a->next;
             }else{
-                ans->next = b;
-                ans = ans->next;
+                nw->next = b;
                 b = b->next;
             }
+
+            nw = nw->next;
         }
 
         while(a){
-            ans->next = a;
-            ans = ans->next;
+            nw->next = a;
             a = a->next;
+            nw = nw->next;
         }
 
         while(b){
-            ans->next = b;
-            ans = ans->next;
+            nw->next = b;
             b = b->next;
+            nw = nw->next;
         }
 
-        return temp->next;
+        return t->next;
     }
 
-    ListNode* mergeSort(ListNode* head ){
-        if(head->next == nullptr) return head;
+    ListNode* mergeSort(ListNode* temp){
+        if(!temp->next) return temp;
 
-        ListNode* fast = head;
-        ListNode* slow = head;
-        ListNode* prev = head;
+        ListNode* slow = temp, *fast = temp;
 
+        ListNode* prev;
         while(fast && fast->next){
             fast = fast->next->next;
             prev = slow;
             slow = slow->next;
         }
-        prev->next = NULL;
 
-        ListNode* a = mergeSort(head);
+        prev->next = nullptr;
+
+        ListNode* a = mergeSort(temp);
         ListNode* b = mergeSort(slow);
         return merge(a,b);
     }
 
     ListNode* sortList(ListNode* head) {
         if(!head || !head->next) return head;
-
+        
         return mergeSort(head);
     }
 };
