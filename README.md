@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0053-maximum-subarray) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
