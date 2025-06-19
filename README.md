@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
 ## Design
