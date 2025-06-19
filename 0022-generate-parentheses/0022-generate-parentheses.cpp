@@ -1,20 +1,20 @@
 class Solution {
 public:
-    void f(int n , int active, vector<string> &ans, string temp, int& siz){
-        if(temp.size() == siz){
+    void f(int n, int open, int close, vector<string> &ans, string temp){
+        if(temp.size() == n * 2){
             ans.push_back(temp);
             return;
         }
 
-        if(n > 0) f(n-1,active+1,ans,temp + '(', siz);
-        if(active > 0) f(n,active-1,ans,temp + ')', siz);
+        if(open < n){
+            f(n,open + 1,close,ans,temp + "(");
+        }
 
+        if(close < open && close < n) f(n,open,close + 1,ans,temp + ")");
     }
-
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        int s = n * 2;
-        f(n,0,ans,"",s);
+        vector<string> ans; 
+        f(n,0 ,0 ,ans, "");
         return ans;
     }
 };
