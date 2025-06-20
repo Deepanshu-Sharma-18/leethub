@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
 ## Hash Table
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
 ## Design
 |  |
 | ------- |
