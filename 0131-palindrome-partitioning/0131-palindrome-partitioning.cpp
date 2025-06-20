@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void f(vector<vector<string>>& ans, vector<string> temp, string &s, int ind){
+    void f(vector<vector<string>>& ans, vector<string> temp, string s, int ind){
         if(ind == s.size()-1 || s.size() == 0){
             if(!s.empty())temp.push_back(s);
             ans.push_back(temp);
