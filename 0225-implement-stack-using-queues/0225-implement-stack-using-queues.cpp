@@ -10,29 +10,27 @@ public:
     }
     
     int pop() {
-        queue<int> temp;
-        int i = q.size();
-        while(i > 1){
-            int a = q.front();
+        queue<int> temp = q;
+        int res = temp.back();
+        int k= 0;
+        while(!q.empty()){
+            k++;
             q.pop();
-            temp.push(a);
-            i--;
         }
-        int a = q.front();
-        q = temp;
-        return a;
+
+        while(!temp.empty()){
+            if(k == 1){
+                break;
+            }
+            k--;
+            q.push(temp.front());
+            temp.pop();
+        }
+        return res;
     }
     
     int top() {
-        queue<int> temp;
-        temp = q;
-        int i= q.size();
-        while(i > 1){
-            int a = temp.front();
-            temp.pop();
-            i--;
-        }
-        return temp.front();
+        return q.back();
     }
     
     bool empty() {
