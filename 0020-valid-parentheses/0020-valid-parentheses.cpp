@@ -7,12 +7,31 @@ public:
                 st.push(it);
             }else{
                 if(st.empty()) return false;
-                char t = st.top();
-                st.pop();
-                if(it == ')' && t == '(') continue;
-                if(it == '}' && t == '{') continue;
-                if(it == ']' && t == '[') continue;
-                return false;
+                char a = st.top();
+                if(it == ')'){
+                    if(a == '('){
+                        st.pop();
+                        continue;
+                    }else{
+                        return false;
+                    }
+                }
+                if(it == '}' ){
+                    if(a == '{'){
+                        st.pop();
+                        continue;
+                    }else{
+                        return false;
+                    }
+                }
+                if(it == ']'){
+                    if(a == '['){
+                        st.pop();
+                        continue;
+                    }else{
+                        return false;
+                    }
+                } 
             }
         }
 
