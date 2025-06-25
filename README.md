@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
