@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Depth-First Search
@@ -356,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
