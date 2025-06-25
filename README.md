@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0410-split-array-largest-sum) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -345,4 +348,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
