@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0229-majority-element-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0234-palindrome-linked-list) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0232-implement-queue-using-stacks) |
@@ -363,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
