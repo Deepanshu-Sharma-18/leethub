@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0014-longest-common-prefix) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0139-word-break) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
