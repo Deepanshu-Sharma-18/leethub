@@ -5,20 +5,15 @@ public:
         int ans = 0;
 
         while(right < nums.size()){
-            if(nums[right] == 1){
-                ans = max(ans, right - left + 1);
-                right++;
-                continue;
-            }
+            if(nums[right] == 0) k--;
 
-            if(nums[right] == 0 && k > 0){
-                ans = max(ans , right - left + 1);
-                right++;
-                k--;
-            }else{
+            while(k < 0){
                 if(nums[left] == 0) k++;
                 left++;
             }
+
+            ans = max(ans, right - left + 1);
+            right++;
 
         }
 
