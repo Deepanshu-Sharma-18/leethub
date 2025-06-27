@@ -10,11 +10,11 @@ public:
             if(mp.find(s[right]) != mp.end() && mp[s[right]] >= left){
                 left = mp[s[right]] + 1;
             }
-            else{
-                mp[s[right]] = right;
-                ans = max(ans, right - left + 1);
-                right++;
-            }
+            
+            mp[s[right]] = right;
+            ans = max(ans, right - left + 1);
+            right++;
+            
         }
         
         return ans;
