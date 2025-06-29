@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0966-binary-subarrays-with-sum) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
