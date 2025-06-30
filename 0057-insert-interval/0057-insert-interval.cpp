@@ -1,8 +1,16 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
+        bool f = false;
+        for(int i=0; i<intervals.size(); i++){
+            if(intervals[i][0] >= newInterval[0]){
+                intervals.insert(intervals.begin() + i, newInterval);
+                f = true;
+                break;
+            }
+        }
+
+        if(!f) intervals.push_back(newInterval);
 
         int i=1;
 
