@@ -15,13 +15,16 @@ public:
     void f(TreeNode* root, int& val){
         if(root->val > val){
             if(root->left) f(root->left, val);
-            else root->left = new TreeNode(val);
-            return;
+            else {
+                root->left = new TreeNode(val);
+                return;
+            } 
         }else{
             if(root->right) f(root->right, val);
-            else root->right = new TreeNode(val);
-            return;
-            f(root->right, val);
+            else{
+                root->right = new TreeNode(val);         
+                return;
+            } 
         }
 
         return;
