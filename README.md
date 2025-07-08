@@ -111,7 +111,56 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0812-rotate-string) |
 
-### Array
+#
+
+### Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
+
+### Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepanshu-
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0001-two-sum) |
@@ -180,6 +229,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -188,51 +238,8 @@
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
-
-### Math
+## Matrix
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0002-add-two-numbers) |
-| [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
-| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
-| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
-| [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
-| [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
-| [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
-
-### Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0076-minimum-window-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0076-minimum-window-substring) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepanshu-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
-| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
-| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
-## Union Find
-|  |
-| ------- |
-| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
-## Graph
-|  |
-| ------- |
-| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
-| [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
-## Topological Sort
-|  |
-| ------- |
-| [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
