@@ -165,10 +165,12 @@
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
@@ -267,9 +269,11 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
