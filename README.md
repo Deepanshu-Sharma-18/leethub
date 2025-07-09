@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -257,6 +260,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -266,5 +270,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
