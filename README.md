@@ -288,4 +288,5 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1827-invalid-tweets) |
+| [2087-confirmation-rate](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
