@@ -280,4 +280,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
