@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/average-selling-price">Average Selling Price</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Prices</code></p>
+<h2><a href="https://leetcode.com/problems/average-selling-price">1390. Average Selling Price</a></h2><h3>Easy</h3><hr><p>Table: <code>Prices</code></p>
 
 <pre>
 +---------------+---------+
@@ -32,7 +32,7 @@ Each row of this table indicates the date, units, and product_id of each product
 
 <p>&nbsp;</p>
 
-<p>Write a solution to find the average selling price for each product. <code>average_price</code> should be <strong>rounded to 2 decimal places</strong>.</p>
+<p>Write a solution to find the average selling price for each product. <code>average_price</code> should be <strong>rounded to 2 decimal places</strong>. If a product does not have any sold units, its average selling price is assumed to be 0.</p>
 
 <p>Return the result table in <strong>any order</strong>.</p>
 
