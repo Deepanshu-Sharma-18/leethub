@@ -276,4 +276,8 @@
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
