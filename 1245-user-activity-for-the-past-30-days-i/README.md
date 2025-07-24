@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i">User Activity for the Past 30 Days I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i">1245. User Activity for the Past 30 Days I</a></h2><h3>Easy</h3><hr><p>Table: <code>Activity</code></p>
 
 <pre>
 +---------------+---------+
