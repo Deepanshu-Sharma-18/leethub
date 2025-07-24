@@ -283,6 +283,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0620-not-boring-movies) |
 | [1182-game-play-analysis-iv](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1245-user-activity-for-the-past-30-days-i) |
