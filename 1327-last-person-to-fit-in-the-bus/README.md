@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus">Last Person to Fit in the Bus</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Queue</code></p>
+<h2><a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus">1327. Last Person to Fit in the Bus</a></h2><h3>Medium</h3><hr><p>Table: <code>Queue</code></p>
 
 <pre>
 +-------------+---------+
@@ -21,6 +21,8 @@ weight is the weight of the person in kilograms.
 <p>There is a queue of people waiting to board a bus. However, the bus has a weight limit of <code>1000</code><strong> kilograms</strong>, so there may be some people who cannot board.</p>
 
 <p>Write a solution to find the <code>person_name</code> of the <strong>last person</strong> that can fit on the bus without exceeding the weight limit. The test cases are generated such that the first person does not exceed the weight limit.</p>
+
+<p><strong>Note</strong> that <em>only one</em> person can board the bus at any given turn.</p>
 
 <p>The&nbsp;result format is in the following example.</p>
 
