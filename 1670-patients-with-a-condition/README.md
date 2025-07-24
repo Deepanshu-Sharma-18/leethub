@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/patients-with-a-condition">Patients With a Condition</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Patients</code></p>
+<h2><a href="https://leetcode.com/problems/patients-with-a-condition">1670. Patients With a Condition</a></h2><h3>Easy</h3><hr><p>Table: <code>Patients</code></p>
 
 <pre>
 +--------------+---------+
