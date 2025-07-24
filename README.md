@@ -284,6 +284,7 @@
 | [0577-employee-bonus](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0620-not-boring-movies) |
+| [1182-game-play-analysis-iv](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1415-students-and-examinations) |
