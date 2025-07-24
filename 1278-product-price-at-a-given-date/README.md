@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-price-at-a-given-date">Product Price at a Given Date</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Products</code></p>
+<h2><a href="https://leetcode.com/problems/product-price-at-a-given-date">1278. Product Price at a Given Date</a></h2><h3>Medium</h3><hr><p>Table: <code>Products</code></p>
 
 <pre>
 +---------------+---------+
@@ -11,13 +11,13 @@
 (product_id, change_date) is the primary key (combination of columns with unique values) of this table.
 Each row of this table indicates that the price of some product was changed to a new price at some date.</pre>
 
-<p>&nbsp;</p>
+<p>Initially, all products have price 10.</p>
 
-<p>Write a solution to find the prices of all products on <code>2019-08-16</code>. Assume the price of all products before any change is <code>10</code>.</p>
+<p>Write a solution to find the prices of all products on the date <code>2019-08-16</code>.</p>
 
 <p>Return the result table in <strong>any order</strong>.</p>
 
-<p>The&nbsp;result format is in the following example.</p>
+<p>The result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
