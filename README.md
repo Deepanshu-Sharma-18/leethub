@@ -48,31 +48,7 @@
 
 ## LeetCode Topics
 
-### Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0005-longest-palindromic-substring) |
-| [0015-3sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0018-4sum) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0031-next-permutation](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0031-next-permutation) |
-| [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
-| [0061-rotate-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0061-rotate-list) |
-| [0075-sort-colors](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0088-merge-sorted-array) |
-| [0141-linked-list-cycle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0142-linked-list-cycle-ii) |
-| [0148-sort-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0148-sort-list) |
-| [0151-reverse-words-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0151-reverse-words-in-a-string) |
-| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
-| [0234-palindrome-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0234-palindrome-linked-list) |
-| [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
-| [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
-| [0908-middle-of-the-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0908-middle-of-the-linked-list) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
+#
 
 ### String
 |  |
@@ -176,6 +152,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -305,4 +282,34 @@
 | [2087-confirmation-rate](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
