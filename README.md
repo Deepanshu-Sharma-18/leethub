@@ -245,6 +245,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0118-pascals-triangle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -313,4 +314,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
