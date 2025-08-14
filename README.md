@@ -89,18 +89,7 @@
 
 #
 
-### Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0002-add-two-numbers) |
-| [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
-| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
-| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
-| [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
-| [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
-| [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
+#
 
 ### Hash Table
 |  |
@@ -230,6 +219,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
@@ -323,4 +313,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
