@@ -185,6 +185,7 @@
 | [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
@@ -225,6 +226,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -297,6 +299,7 @@
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -327,4 +330,8 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
