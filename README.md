@@ -336,4 +336,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
