@@ -1,12 +1,20 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int,int> mp;
-        for(auto i: nums){
-            mp[i]++;
-            if(mp[i] > nums.size()/2) return i;
+        int major = nums[0];
+        int count = 1;
+
+        for(int i=1; i<nums.size(); i++){
+            if(nums[i] == major) count++;
+            else{
+                count--;
+                if(count < 0){
+                    count = 1;
+                    major = nums[i];
+                }
+            }
         }
-        
-        return 0;
+
+        return major;
     }
 };
