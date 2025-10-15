@@ -218,6 +218,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0493-reverse-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
