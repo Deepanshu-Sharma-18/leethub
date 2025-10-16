@@ -52,11 +52,7 @@
 
 #
 
-### String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0812-rotate-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0812-rotate-string) |
+#
 
 #
 
@@ -130,6 +126,7 @@
 | [0055-jump-game](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0078-subsets) |
@@ -304,6 +301,7 @@
 | [0048-rotate-image](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
