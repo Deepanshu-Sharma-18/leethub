@@ -189,6 +189,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
