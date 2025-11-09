@@ -166,6 +166,7 @@
 | [0503-next-greater-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0792-binary-search) |
@@ -389,4 +390,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0303-range-sum-query-immutable) |
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
