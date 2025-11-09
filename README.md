@@ -71,6 +71,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
@@ -79,6 +80,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
@@ -367,4 +369,12 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
