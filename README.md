@@ -373,6 +373,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
+| [2528-number-of-valid-clock-times](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2528-number-of-valid-clock-times) |
 ## Tree
 |  |
 | ------- |
@@ -394,4 +395,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0643-maximum-average-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [2528-number-of-valid-clock-times](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2528-number-of-valid-clock-times) |
 <!---LeetCode Topics End-->
