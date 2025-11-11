@@ -12,10 +12,10 @@ public:
             }
         }
 
-        string tmp = t;
+        s = t;
         reverse(t.begin(), t.end());
 
-        if(t == tmp) return true;
+        if(t == s) return true;
         return false;
     }
 };
