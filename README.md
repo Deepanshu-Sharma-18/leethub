@@ -312,6 +312,7 @@
 | [0050-powx-n](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
@@ -366,6 +367,7 @@
 | [0131-palindrome-partitioning](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
