@@ -234,6 +234,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0197-rising-temperature) |
