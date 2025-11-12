@@ -189,6 +189,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
@@ -406,4 +407,8 @@
 |  |
 | ------- |
 | [2528-number-of-valid-clock-times](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2528-number-of-valid-clock-times) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
