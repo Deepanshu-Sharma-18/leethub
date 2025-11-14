@@ -175,6 +175,7 @@
 | [0907-koko-eating-bananas](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1046-max-consecutive-ones-iii) |
@@ -379,6 +380,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0812-rotate-string) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
