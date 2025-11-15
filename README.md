@@ -185,6 +185,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -416,4 +417,12 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
