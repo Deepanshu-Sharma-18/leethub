@@ -212,6 +212,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0493-reverse-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -433,4 +434,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
