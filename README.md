@@ -73,6 +73,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0207-course-schedule) |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0404-sum-of-left-leaves) |
 | [0744-network-delay-time](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -394,10 +396,12 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0404-sum-of-left-leaves) |
 ## Design
 |  |
 | ------- |
