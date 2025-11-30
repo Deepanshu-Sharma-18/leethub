@@ -397,6 +397,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2528-number-of-valid-clock-times](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2528-number-of-valid-clock-times) |
+| [3110-score-of-a-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3110-score-of-a-string) |
 ## Tree
 |  |
 | ------- |
