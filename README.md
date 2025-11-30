@@ -199,6 +199,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
@@ -330,6 +331,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2050-count-good-numbers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
