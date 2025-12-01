@@ -326,6 +326,7 @@
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
@@ -442,4 +443,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
