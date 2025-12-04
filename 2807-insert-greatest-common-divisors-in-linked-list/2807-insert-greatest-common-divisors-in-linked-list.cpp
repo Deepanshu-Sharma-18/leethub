@@ -11,10 +11,12 @@
 class Solution {
 public:
     int gca(int a, int b){
-        for(int i=min(a,b); i>0; i--){
-            if(a % i == 0 && b % i == 0) return i;
+         while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return 1;
+        return a;
     }
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(!head || !head->next) return head;
