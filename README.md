@@ -191,6 +191,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
@@ -399,6 +400,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2032-largest-odd-number-in-string) |
 | [2528-number-of-valid-clock-times](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2528-number-of-valid-clock-times) |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0303-range-sum-query-immutable) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
