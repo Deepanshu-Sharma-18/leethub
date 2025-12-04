@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        set<char> st;
+        unordered_set<char> st;
         int ans = 0;
         int f = true;
         for(auto it : s){
