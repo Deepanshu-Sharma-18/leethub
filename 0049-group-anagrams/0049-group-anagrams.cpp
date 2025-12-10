@@ -7,12 +7,6 @@ public:
         for(auto it : strs){
             string t = it;
             sort(t.begin(), t.end());
-            mp[t] = {};
-        }
-
-        for(auto it : strs){
-            string t = it;
-            sort(t.begin(), t.end());
             mp[t].push_back(it);
         }
 
