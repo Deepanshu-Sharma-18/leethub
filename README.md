@@ -155,6 +155,7 @@
 | [0189-rotate-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0283-move-zeroes) |
@@ -422,6 +423,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0303-range-sum-query-immutable) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
