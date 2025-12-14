@@ -1,40 +1,35 @@
-
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+
         vector<vector<int>> ans;
-       map<int,int> mp;
-       set<vector<int>> st;
-       vector<int>v;
         
+        sort(nums.begin(), nums.end());
+        for(int i=0; i<nums.size(); i++){
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+            int j = i + 1 , k = nums.size()-1;
 
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(mp.find(0 - nums[i]-nums[j]) != mp.end()){
-                    
-              
-                    if(i != j && j!=mp[ - nums[i]-nums[j]] && i!=mp[ - nums[i]-nums[j]]){
-                        v.push_back(nums[i]);
-                        v.push_back(nums[j]);
-                        v.push_back(-nums[i]-nums[j]);
-                        sort(v.begin(),v.end());
-                        st.insert(v);
-                        v.clear();
-                         
-                    }
-                     
+            while(j < k){
+                if(nums[i] + nums[j] + nums[k] == 0){
+                    vector<int> t;
+                    t.push_back(nums[i]);
+                    t.push_back(nums[j]);
+                    t.push_back(nums[k]);
+                    ans.push_back(t);
+                    j++;
+                    k--;
+                    while (j < k && nums[j] == nums[j-1]) j++;
+                    while (j < k && nums[k] == nums[k+1]) k--;
+
                 }
-                mp[nums[j]] = j;
+                else if(nums[i] + nums[j] + nums[k] < 0){
+                    j++;
+                }else{
+                    k--;
+                }
             }
-            
         }
-
-        for(auto a : st){
-            ans.push_back(a);
-        }
-
 
         return ans;
-       
     }
 };
