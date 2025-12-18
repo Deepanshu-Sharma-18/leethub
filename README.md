@@ -230,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0118-pascals-triangle) |
@@ -446,10 +447,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
 |  |
