@@ -1,23 +1,25 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int left = 0, right = 0;
+        unordered_map<char, int> mp;
 
-        int count = 0, ans = 0;
-        vector<int> a(26, 0);
+        int i=0, j=1;
+        int ans = 1;
+        int maxi = 1;
+        mp[s[0]]++;
 
-        while(right < s.size()){
-            a[s[right] - 'A']++;
+        while(j < s.length()){
+            mp[s[j]]++;
+            if(maxi < mp[s[j]]) maxi = mp[s[j]];
 
-            count = max(count , a[s[right] - 'A']);
-
-            while((right - left + 1) - count > k){
-                a[s[left] - 'A']--;
-                left++;
-            } 
-
-            ans = max(ans, right - left + 1);
-            right++;
+            if(j - i + 1 - maxi <= k){
+                ans = max(ans , j - i + 1);
+                j++;
+            }else{
+                mp[s[i]]--;
+                i++;
+                j++;
+            }
         }
 
         return ans;
