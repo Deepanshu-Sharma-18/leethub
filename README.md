@@ -192,6 +192,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
