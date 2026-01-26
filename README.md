@@ -198,6 +198,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2227-sum-of-subarray-ranges](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2714-left-and-right-sum-differences) |
@@ -303,6 +304,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0908-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
