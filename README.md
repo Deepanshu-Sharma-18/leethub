@@ -448,6 +448,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
