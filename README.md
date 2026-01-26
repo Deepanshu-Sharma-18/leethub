@@ -311,6 +311,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1890-sum-of-beauty-of-all-substrings) |
