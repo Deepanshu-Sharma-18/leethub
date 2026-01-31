@@ -174,6 +174,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0907-koko-eating-bananas) |
@@ -221,6 +222,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1753-path-with-minimum-effort](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/1753-path-with-minimum-effort) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepanshu-Sharma-18/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Heap (Priority Queue)
